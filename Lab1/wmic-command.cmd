@@ -7,7 +7,7 @@ wmic computersystem get totalphysicalmemory
 wmic partition get name,size,type
 wmic process list
 wmic product
-c:
+vol c:
 winver
 chkdsk
 systeminfo
