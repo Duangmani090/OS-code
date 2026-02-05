@@ -1,7 +1,7 @@
-#include &lt;iostream&gt;
-#include &lt;list&gt;
-#include &lt;unordered_map&gt;
-#include &lt;iomanip&gt;
+#include <iostream>
+#include <list>
+#include <unordered_map>
+#include <iomanip>
 using namespace std;
 const int TLB_SIZE = 8;
 class TLB {
