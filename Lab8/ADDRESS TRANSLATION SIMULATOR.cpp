@@ -1,8 +1,8 @@
-#include &lt;iostream&gt;
-#include &lt;iomanip&gt;
-#include &lt;cstdlib&gt;
-#include &lt;ctime&gt;
-#include &lt;bitset&gt;
+#include <iostream>
+#include <iomanip>
+#include <cstdlib>
+#include <ctime>
+#include <bitset>
 using namespace std;
 const int NUM_PAGES = 64;
 const int NUM_FRAMES = 32;
