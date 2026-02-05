@@ -1,8 +1,8 @@
-#include &lt;iostream&gt;
-#include &lt;vector&gt;
-#include &lt;string&gt;
-#include &lt;algorithm&gt;
-#include &lt;iomanip&gt;
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <iomanip>
 using namespace std;
 struct MemoryBlock {
 int startAddress;
