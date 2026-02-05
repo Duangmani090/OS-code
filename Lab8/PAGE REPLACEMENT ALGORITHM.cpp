@@ -1,8 +1,8 @@
-#include &lt;iostream&gt;
-#include &lt;queue&gt;
-#include &lt;unordered_set&gt;
-#include &lt;vector&gt;
-#include &lt;iomanip&gt;
+#include <iostream>
+#include <queue>
+#include <unordered_set>
+#include <vector>
+#include <iomanip>
 using namespace std;
 class PageReplacementFIFO {
 private:
